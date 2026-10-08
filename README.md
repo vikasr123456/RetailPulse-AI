@@ -512,5 +512,6 @@ The UI should support this workflow instead of becoming a collection of decorati
 ## Simple User Experience
 
 RetailPulse includes **Simple mode** for non-technical shop users. It provides larger labels, plain-language navigation, direct Sunny answers, optional browser voice input and data-backed charts.
-#   R e t a i l P u l s e - A I  
- 
+#   R e t a i l P u l s e - A I 
+ 
+ 
